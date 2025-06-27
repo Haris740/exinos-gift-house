@@ -9,37 +9,37 @@ const FeaturedProducts = () => {
       name: 'Premium Trophy',
       description: 'Elegant awards for special achievements',
       image: 'https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=400&h=300&fit=crop&crop=center',
-      price: 'From $25'
+      price: 'From ₹25'
     },
     {
       name: 'Custom Memento',
       description: 'Personalized keepsakes for memorable moments',
       image: 'https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=300&fit=crop&crop=center',
-      price: 'From $15'
+      price: 'From ₹15'
     },
     {
       name: 'Smart NFC Card',
       description: 'Digital business cards with instant sharing',
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop&crop=center',
-      price: 'From $12'
+      price: 'From ₹12'
     },
     {
       name: 'Engraved Plaque',
       description: 'Professional recognition and commemoration',
       image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center',
-      price: 'From $30'
+      price: 'From ₹30'
     },
     {
       name: 'Designer Keychain',
       description: 'Stylish accessories with personal touch',
       image: 'https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=300&fit=crop&crop=center',
-      price: 'From $8'
+      price: 'From ₹8'
     },
     {
       name: 'Custom Nameplate',
       description: 'Professional desk accessories and signage',
       image: 'https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=400&h=300&fit=crop&crop=center',
-      price: 'From $20'
+      price: 'From ₹20'
     }
   ];
 

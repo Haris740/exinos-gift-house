@@ -24,20 +24,14 @@ const Header = () => {
   ];
 
   return (
-    <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-      isScrolled ? 'bg-white/95 backdrop-blur-sm shadow-lg' : 'bg-transparent'
-    }`}>
+    <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'bg-white/95 backdrop-blur-sm shadow-lg' : 'bg-transparent'
+      }`}>
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <div className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-gradient-to-br from-exinos-black to-exinos-gold rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">E</span>
-            </div>
-            <div>
-              <h1 className="text-xl font-bold text-exinos-black">Exinos</h1>
-              <p className="text-xs text-exinos-gold -mt-1">Gift House</p>
-            </div>
+          <div>
+            <img src="/exinos-logo.png" alt="Exinos Logo" className="h-7 mr-2 -ml-1" />
+            <p className="text-xs text-exinos-gold -mt-1">Gift House</p>
           </div>
 
           {/* Desktop Navigation */}

@@ -6,7 +6,7 @@ const Testimonials = () => {
   const testimonials = [
     {
       quote: "Exinos transformed our corporate gifting experience. The quality and attention to detail in every piece is exceptional. Our employees cherish their custom awards.",
-      author: "Sarah Johnson",
+      author: "Sarah",
       position: "HR Director",
       company: "TechCorp Solutions",
       product: "Custom Trophy Collection",
@@ -14,7 +14,7 @@ const Testimonials = () => {
     },
     {
       quote: "The NFC business cards revolutionized our networking. We can update our information instantly and track engagement. It's the future of professional networking.",
-      author: "Michael Chen",
+      author: "Muhammed Ali",
       position: "Marketing Manager",
       company: "Creative Agency",
       product: "Smart NFC Business Cards",
@@ -22,7 +22,7 @@ const Testimonials = () => {
     },
     {
       quote: "Every memento tells a story. Exinos helped us create beautiful keepsakes for our anniversary celebration that our guests will treasure forever.",
-      author: "Emma Rodriguez",
+      author: "Athira",
       position: "Event Coordinator",
       company: "Celebration Events",
       product: "Custom Memento Design",

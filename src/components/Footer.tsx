@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="w-5 h-5 mr-3 text-exinos-gold" />
-                <span>hello@exinosgifts.com</span>
+                <span>exinoscreations@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="w-5 h-5 mr-3 text-exinos-gold" />
